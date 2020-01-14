@@ -1,0 +1,4 @@
+{ 
+  date:  @current_date,
+  message: "Let the games begin!"
+}
